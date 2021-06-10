@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xC546sOEmgBTvKUZprjoWXUKFgRZZO8Lja40WUXvS7VvJhTrL40rvQzV0BS55omu5ouPaHRcjvygPnq/VkJVfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xckai\\Desktop\\projects\\csharp\\WebTest\\WebTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xckai\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\xckai\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\xckai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\xckai\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekb5APXFRIaA6RvAzWUmPrtfpSKKK2YEBcmvxU5czjqx5RI5q/fSrqVn079jgTIfdkR8WqlL79MwXtdXzrsO+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xckai\\Desktop\\projects\\csharp\\Refit\\Refit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xckai\\.nuget\\packages\\refit\\6.0.38\\refit.6.0.38.nupkg.sha512",
+    "C:\\Users\\xckai\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

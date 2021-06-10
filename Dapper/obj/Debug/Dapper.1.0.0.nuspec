@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dapper</id>
+    <version>1.0.0</version>
+    <authors>Dapper</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.runtimeconfig.json" target="lib\netcoreapp3.1\Dapper.runtimeconfig.json" />
+    <file src="C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.dll" target="lib\netcoreapp3.1\Dapper.dll" />
+  </files>
+</package>

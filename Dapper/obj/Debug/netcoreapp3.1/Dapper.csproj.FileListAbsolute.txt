@@ -1,0 +1,13 @@
+C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.exe
+C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.deps.json
+C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.runtimeconfig.json
+C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.runtimeconfig.dev.json
+C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\xckai\Desktop\Project\csharp\Dapper\bin\Debug\netcoreapp3.1\Dapper.pdb
+C:\Users\xckai\Desktop\Project\csharp\Dapper\obj\Debug\netcoreapp3.1\Dapper.csprojAssemblyReference.cache
+C:\Users\xckai\Desktop\Project\csharp\Dapper\obj\Debug\netcoreapp3.1\Dapper.AssemblyInfoInputs.cache
+C:\Users\xckai\Desktop\Project\csharp\Dapper\obj\Debug\netcoreapp3.1\Dapper.AssemblyInfo.cs
+C:\Users\xckai\Desktop\Project\csharp\Dapper\obj\Debug\netcoreapp3.1\Dapper.csproj.CoreCompileInputs.cache
+C:\Users\xckai\Desktop\Project\csharp\Dapper\obj\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\xckai\Desktop\Project\csharp\Dapper\obj\Debug\netcoreapp3.1\Dapper.pdb
+C:\Users\xckai\Desktop\Project\csharp\Dapper\obj\Debug\netcoreapp3.1\Dapper.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\xckai\Desktop\Project\csharp\ThreadTest\bin\Debug\ThreadTest.exe.config
+C:\Users\xckai\Desktop\Project\csharp\ThreadTest\bin\Debug\ThreadTest.exe
+C:\Users\xckai\Desktop\Project\csharp\ThreadTest\bin\Debug\ThreadTest.pdb
+C:\Users\xckai\Desktop\Project\csharp\ThreadTest\obj\Debug\ThreadTest.csprojAssemblyReference.cache
+C:\Users\xckai\Desktop\Project\csharp\ThreadTest\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\xckai\Desktop\Project\csharp\ThreadTest\obj\Debug\ThreadTest.exe
+C:\Users\xckai\Desktop\Project\csharp\ThreadTest\obj\Debug\ThreadTest.pdb
+C:\Users\xckai\Desktop\projects\csharp\ThreadTest\bin\Debug\ThreadTest.exe.config
+C:\Users\xckai\Desktop\projects\csharp\ThreadTest\bin\Debug\ThreadTest.exe
+C:\Users\xckai\Desktop\projects\csharp\ThreadTest\bin\Debug\ThreadTest.pdb
+C:\Users\xckai\Desktop\projects\csharp\ThreadTest\obj\Debug\ThreadTest.csproj.AssemblyReference.cache
+C:\Users\xckai\Desktop\projects\csharp\ThreadTest\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\xckai\Desktop\projects\csharp\ThreadTest\obj\Debug\ThreadTest.exe
+C:\Users\xckai\Desktop\projects\csharp\ThreadTest\obj\Debug\ThreadTest.pdb

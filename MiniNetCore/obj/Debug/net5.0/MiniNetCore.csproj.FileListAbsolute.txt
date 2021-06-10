@@ -1,0 +1,16 @@
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\bin\Debug\net5.0\MiniNetCore.exe
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\bin\Debug\net5.0\MiniNetCore.deps.json
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\bin\Debug\net5.0\MiniNetCore.runtimeconfig.json
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\bin\Debug\net5.0\MiniNetCore.runtimeconfig.dev.json
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\bin\Debug\net5.0\MiniNetCore.dll
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\bin\Debug\net5.0\ref\MiniNetCore.dll
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\bin\Debug\net5.0\MiniNetCore.pdb
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.csproj.AssemblyReference.cache
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.AssemblyInfoInputs.cache
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.AssemblyInfo.cs
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.csproj.CoreCompileInputs.cache
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.dll
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\ref\MiniNetCore.dll
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.pdb
+C:\Users\xckai\Desktop\projects\csharp\MiniNetCore\obj\Debug\net5.0\MiniNetCore.genruntimeconfig.cache

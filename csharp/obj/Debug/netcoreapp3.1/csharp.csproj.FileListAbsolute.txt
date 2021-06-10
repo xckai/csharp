@@ -1,0 +1,17 @@
+C:\Users\xckai\Desktop\Project\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.exe
+C:\Users\xckai\Desktop\Project\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.deps.json
+C:\Users\xckai\Desktop\Project\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+C:\Users\xckai\Desktop\Project\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+C:\Users\xckai\Desktop\Project\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.dll
+C:\Users\xckai\Desktop\Project\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.csprojAssemblyReference.cache
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.csproj.CoreCompileInputs.cache
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.genruntimeconfig.cache
+C:\Users\xckai\Desktop\Project\csharp\csharp\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\xckai\Desktop\Project\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.csproj.CopyComplete
+C:\Users\xckai\Desktop\projects\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+C:\Users\xckai\Desktop\projects\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
